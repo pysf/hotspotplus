@@ -1,6 +1,6 @@
 ### Hotspotplus Installation
 
-#### Install docker and docker compose
+#### Install docker and Docker compose
 
 - [Docker installation guid](https://docs.docker.com/docker-for-mac/install/)
 - [Docker post installation guid](https://docs.docker.com/engine/install/linux-postinstall/)
